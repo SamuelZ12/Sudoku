@@ -5,6 +5,7 @@ This Java program solves standard 9x9 Sudoku puzzles using a backtracking algori
 ## Description
 
 The program reads a 9x9 Sudoku grid from the standard input, where numbers 1-9 represent filled cells and the character '.' represents empty cells. It then attempts to find a valid solution to the puzzle and prints the solved grid to the standard output in a formatted manner.
+*(Personal Note: This was my first coding "project" I built in the summer after Grade 8! I happened to be taking a Java class around that time and was also getting really interested in Sudoku. I got frustrated finding puzzles online that didn't seem to have a solution, so it was really enjoyable to apply what I was learning in class to build this solver. I still remember being quite proud of this project.)*
 
 ## Algorithm
 
